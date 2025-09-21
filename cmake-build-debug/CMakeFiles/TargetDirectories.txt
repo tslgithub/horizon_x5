@@ -1,0 +1,5 @@
+/tmp/Robot/cmake-build-debug/CMakeFiles/stereo_depth.dir
+/tmp/Robot/cmake-build-debug/CMakeFiles/keypoints_match.dir
+/tmp/Robot/cmake-build-debug/CMakeFiles/model.dir
+/tmp/Robot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/Robot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

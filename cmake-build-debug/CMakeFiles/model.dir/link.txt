@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/model.dir/horizon_x5/src/main.cpp.o CMakeFiles/model.dir/horizon_x5/src/model.cpp.o -o model  -Wl,-rpath,/tmp/Robot/thridPart/hb_dnn/lib:/tmp/Robot/thridPart/lib ../thridPart/lib/libalog.so.1.0.1 ../thridPart/lib/libcnn_intf.so.1.3.6 ../thridPart/lib/libhbmem.so.1.0.0 ../thridPart/hb_dnn/lib/libdnn.so 
